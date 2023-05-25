@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Fitness app</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="exercise_view_video_text">How to do it:</string>
+    <string name="exercise_category_string">Muscle groups worked:\n%1$s</string>
+    <string name="exercise_image_description">The image of the exercise</string>
+    <string name="share_button">Share button</string>
+    <string name="play_button">Play button</string>
+    <string name="record_video">Record video</string>
+    <string name="update_video">Update video</string>
+    <string name="view_video">View video</string>
+    <string name="remove_video">Remove video</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="blue_circle">blue_circle</string>
+    <string name="updating_database">Updating database:</string>
+    <string name="add_workout">Add workout</string>
+    <string name="delete_workout">Delete workout</string>
+    <string name="edit_workout">Edit workout %1$s</string>
+    <string name="add_new_workout">Add new workout</string>
+    <string name="enter_workout_name">Enter workout name</string>
+    <string name="add_workout_reminder">Add workout reminder</string>
+    <string name="schedule_notification">Schedule notification</string>
+</resources>
